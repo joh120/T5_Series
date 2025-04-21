@@ -1,0 +1,136 @@
+#title{
+    margin-left: 44%;
+
+}
+
+#jTitle{
+    margin-left: 40%;
+
+}
+
+#homeTitle{
+    margin-left: 42%;
+    margin-top: 2%;
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+#t5{
+    margin-left: 18%;
+    width: 1000px;
+    font-size: 20px;
+}
+/* Add a media query for this  */
+
+.container, .nikeContainer, .jordanContainer{
+    display: flex;
+    /* flex-wrap: wrap; */
+    justify-content: center;
+    gap:1rem;
+
+
+}
+
+.homeContainer{
+    display: flex;
+    /* flex-wrap: wrap; */
+    gap:1rem;
+    margin-top: 25px;
+    margin-bottom: 50px;
+    margin-left: 37%;
+
+}
+
+.logo{
+    border-radius: 50px;
+    height: 50px;
+    width: auto;
+}
+
+.homeImgs{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap:1rem;
+    
+   
+}
+
+.shoeCard{
+    border: 3px solid;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 19px;
+    margin-top: 10px;
+}
+
+.socialMedia{
+    border: 3px solid rgb(212, 204, 199);
+    border-radius: 40px;
+    padding: 15px;
+    font-size: 15px;
+    margin-left: 20%;
+}
+
+.hrLine{
+    color: white;
+    width: 600px;
+    margin-left: 28%;
+    margin-bottom: -25px;
+}
+
+.homeCard{
+    border: 3px solid;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 10px;
+}
+
+button{
+    border-radius:10px;
+    border-color: transparent;
+}
+
+.div {
+  display: flex;
+  flex-wrap:wrap;
+  justify-content: space-between;
+  height: 50px;
+  width: auto;
+  gap: 55px;
+  color: rgb(54, 35, 35);
+}
+
+/* media queries section */
+
+@media screen and (max-width:1350px){
+    #t5{
+           text-align: center;
+           width: auto;
+           margin-right: 20%;
+       }
+   }
+   
+@media screen and (max-width:1350px){
+    #ppp{
+            text-align: center;
+            width: auto;
+            margin-right: 20%;
+            margin-left: 0;
+            font-size: 10px;
+        }
+    }
+
+@media screen and (max-width:700px){
+    #homeTitle, #jTitle, #title{
+            margin-left: 25%;
+        }
+    }
+
+@media screen and (max-width:800px){
+.container{
+    flex-wrap:wrap
+}
+}
+
