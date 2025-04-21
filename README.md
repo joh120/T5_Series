@@ -10,7 +10,7 @@ Have you ever felt like there are too much variety of sneakers online?
 Have your ever felt spoiled for choice ?
 Do you want your kickgame to be timeless and current ?
 
-This sneaker site helps guide aspiring sneakerhead or curious 
+This site is a guide to help aspiring sneakerhead or curious 
 individuals to known among the most dominant sneaker brands in the market which 
-sneaker there should have in their collection or perhaps shouldn't do without! 
+sneaker there should have in their collection or perhaps which sneakers there shouldn't do without! 
 
