@@ -133,4 +133,22 @@ button{
     flex-wrap:wrap
 }
 }
+ @media screen and (max-width:790px){
+    #superstar{
+    margin-top: 12%;
+    }
+}
+
+@media screen and (max-width:700px){
+   #invincible3{
+    margin-bottom: 3%;
+    }
+}
+
+@media screen and (max-width:800px){
+     #dunklowsImg, #dunklows{
+        margin-bottom: 1%;
+        margin-top: 6%;
+    }
+}
 
