@@ -12,5 +12,5 @@ Do you want your kickgame to be timeless and current ?
 
 This site is a guide to help aspiring sneakerhead or curious 
 individuals to know which among the most dominant sneaker brands in the market which 
-sneaker there should have in their collection or perhaps which sneakers there shouldn't do without! 
+sneakers there should have in their collection or perhaps which sneakers there shouldn't do without! 
 
